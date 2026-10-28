@@ -1,1 +1,13 @@
 
+{
+  "geode": "4.0.0",
+  "gd": {
+    "android": "2.208"
+  },
+  "id": "isaacrbell2017-cloud.ai_decorator_mobile",
+  "name": "AI Decorator Mobile",
+  "version": "v1.0.0",
+  "developer": "IsaacBell",
+  "description": "AI-powered Geometry Dash decoration assistant."
+}
+
